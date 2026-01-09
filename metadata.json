@@ -1,0 +1,7 @@
+{
+  "name": "Copy of M.R.A AUTO ELECTRICALS - Inventory Manager",
+  "description": "A professional, real-time stock management system designed for electrical shops to track inventory, manage sales, and generate AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
